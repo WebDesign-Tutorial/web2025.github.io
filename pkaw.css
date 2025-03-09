@@ -14,6 +14,15 @@ a:hover {
     background-color: yellow;
 }
 
+.author-info {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
 .banner {
     height: 361px;
     overflow: hidden;
